@@ -67,7 +67,8 @@ pytest
 Saída Esperada para Sucesso:
 ```
 Ran 2 tests in 0.003s
-OK ```
+OK
+```
 Isso significa que todos os testes passaram com sucesso.
 
 **Saída para Falhas:** Se algum teste falhar, você verá uma mensagem detalhada com o nome do teste que falhou e o motivo.
