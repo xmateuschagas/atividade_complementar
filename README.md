@@ -72,9 +72,9 @@ OK
 Isso significa que todos os testes passaram com sucesso.
 
 ---
-**Saída para Falhas:** 
 
-    Se algum teste falhar, você verá uma mensagem detalhada com o nome do teste que falhou e o motivo.
+Saída para Falhas: Se algum teste falhar, você verá uma mensagem detalhada com o nome do teste que falhou e o motivo.
+
 ---
 
 
