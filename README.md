@@ -40,17 +40,14 @@ Usando o unittest
 Certifique-se de estar na pasta do projeto.
 
 Execute os testes individuais com o seguinte comando:
-```
-python -m unittest test_fibonacci_generator.py
+```python -m unittest test_fibonacci_generator.py
 python -m unittest test_string_utils.py
 python -m unittest test_user_manager.py
-
 ```
 Ou rode todos os testes de uma vez usando:
 
 ```
 python -m unittest discover
-
 ```
 
 Usando o pytest (opcional)
